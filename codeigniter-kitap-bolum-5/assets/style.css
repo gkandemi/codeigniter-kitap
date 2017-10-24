@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select  {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:95%;
+}
+
+select{
+    font-size: 15px;
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+}
+
+button{
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #4F5155;
+    background-color: #9365ce;
+    color: white;
+    width: 100px;
+}
+
+form{
+    padding: 20px;
+    border: 1px solid #666;
+    width: 350px;
+    margin:0px auto;
+    background-color: #fefefe;
+}
+h3{
+  text-align: center;
+    font-size: 25px;
+}
